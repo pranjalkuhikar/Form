@@ -8,4 +8,4 @@ HTML, CSS...
 
 
 ## Screenshots
-![Form_GIF](https://github.com/pranjalkuhikar/My_Stuff/assets/99873964/7757e7e6-3cd0-43b4-a460-1c47e87b754c)
+![Form](https://github.com/pranjalkuhikar/My_Stuff/assets/99873964/9ffbb719-2d50-4316-94a7-f911b2fc80e8)
